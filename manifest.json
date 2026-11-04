@@ -1,0 +1,15 @@
+{
+  "name": "Ys Joke",
+  "description": "Get a new joke everyday",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action" : {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "Emoji 16.png",
+      "32": "Emoji 32.png",
+      "48": "Emoji 48.png",
+      "128": "Emoji 128.png"
+    }
+  }
+}
